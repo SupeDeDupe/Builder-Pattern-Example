@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=CarBuilder
+comment1.params=
+comment1.target=CarBuilder()
+comment2.params=
+comment2.target=Car\ build()
+comment3.params=wheels
+comment3.target=CarBuilder\ addWheels(java.lang.String)
+comment4.params=engine
+comment4.target=CarBuilder\ addEngine(java.lang.String)
+comment5.params=seats
+comment5.target=CarBuilder\ addSeats(java.lang.String)
+comment6.params=doors
+comment6.target=CarBuilder\ addDoors(java.lang.String)
+numComments=7
